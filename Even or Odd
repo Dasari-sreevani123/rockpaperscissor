@@ -1,0 +1,6 @@
+Num = int(input("Enter a number"))
+for i in range(num):
+    if num % 2 == 0:
+        print("Prime")
+    else:
+        print("Not Prime")
